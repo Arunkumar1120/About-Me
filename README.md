@@ -1,5 +1,24 @@
 # 💫 About Me:
-I’m Arunkumar S, an AWS & DevOps Engineer with over 2.5 years of hands-on experience in building, automating, and scaling cloud-native infrastructure. I specialize in AWS Cloud, Kubernetes orchestration, CI/CD pipelines, and containerization, with proven expertise in migrating applications across cloud platforms (OCI → AWS) and operating systems (Windows → Linux).<br><br>In my current role at SPAN Technology Services, I have:<br><br>Migrated enterprise applications like TaxBandits APIs and products to AWS EKS clusters with Karpenter for faster scaling.<br><br>Deployed Istio service mesh with advanced features like ambient mode and circuit breakers.<br><br>Designed and implemented Jenkins and ArgoCD pipelines for seamless GitOps-driven deployments.<br><br>Containerized a wide range of platforms and databases, including Kafka, Flink, PostgreSQL, MySQL, MongoDB, Redis, and more.<br><br>Built robust monitoring stacks using Prometheus, Grafana, Signoz, OpenTelemetry, and integrated security with Keycloak.<br><br>I enjoy solving complex infrastructure challenges, automating processes, and improving system reliability. My professional journey is driven by a passion for cloud innovation, observability, and DevOps best practices.
+Hello! I’m Arunkumar S, an AWS & DevOps Engineer with over 2.5 years of experience in building, automating, and scaling modern cloud-native infrastructures. My expertise lies in AWS Cloud, Kubernetes orchestration, CI/CD pipelines, monitoring, and containerization.
+
+I’ve led impactful projects such as:
+
+🚀 Migrating enterprise-scale applications like TaxBandits APIs from OCI Cloud to AWS with zero downtime.
+🐳 Containerizing tools and platforms including Kafka OSS, Flink, PostgreSQL, MySQL, MongoDB, Redis, Superset, and Supabase.
+☸️ Implementing EKS clusters with Karpenter, reducing scaling response times by 40%.
+🔐 Enhancing security by integrating Keycloak with platforms like Superset.
+📈 Deploying end-to-end monitoring stacks with Prometheus, Grafana, Signoz, OpenTelemetry, Dynatrace, and Site24x7.
+🔄 Building automated CI/CD pipelines using Jenkins, ArgoCD, and Ansible.
+💡 My work philosophy is centered around automation, scalability, reliability, and security. I’m passionate about leveraging open-source tools and cloud-native solutions to simplify complex problems and accelerate software delivery.
+
+Outside of my core projects, I enjoy exploring new DevOps tools, contributing to open-source ecosystems, and experimenting with modern observability and infrastructure patterns.
+
+📚 Education:
+🎓 MCA (Kongu Engineering College) – CGPA: 8.95/10
+🎓 B.Sc. Computer Science (Kongu Arts and Science College) – CGPA: 6.9/10
+
+⚡ Tech Stack at a Glance:
+AWS | Kubernetes | Docker | Jenkins | ArgoCD | Ansible | Istio (Ambient Mode) | Prometheus | Grafana | Dynatrace | Site24x7 | PostgreSQL | MySQL | MongoDB | Redis | Kafka | Superset | Supabase
 
 
 # 💻 Tech Stack:
